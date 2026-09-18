@@ -7,6 +7,7 @@
 | [0044-wildcard-matching](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0044-wildcard-matching) |
 | [0097-interleaving-string](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0097-interleaving-string) |
 | [1092-shortest-common-supersequence](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1092-shortest-common-supersequence) |
+| [3407-substring-matching-pattern](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/3407-substring-matching-pattern) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -25,4 +26,8 @@
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0044-wildcard-matching) |
+## String Matching
+|  |
+| ------- |
+| [3407-substring-matching-pattern](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/3407-substring-matching-pattern) |
 <!---LeetCode Topics End-->
