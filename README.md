@@ -14,11 +14,13 @@
 | ------- |
 | [0044-wildcard-matching](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0044-wildcard-matching) |
 | [0097-interleaving-string](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0097-interleaving-string) |
+| [1035-uncrossed-lines](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1035-uncrossed-lines) |
 | [1092-shortest-common-supersequence](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1143-longest-common-subsequence) |
 ## Longest Common Subsequence
 |  |
 | ------- |
+| [1035-uncrossed-lines](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1035-uncrossed-lines) |
 | [1092-shortest-common-supersequence](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1143-longest-common-subsequence) |
 ## Greedy
@@ -33,4 +35,8 @@
 |  |
 | ------- |
 | [3407-substring-matching-pattern](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/3407-substring-matching-pattern) |
+## Array
+|  |
+| ------- |
+| [1035-uncrossed-lines](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1035-uncrossed-lines) |
 <!---LeetCode Topics End-->
