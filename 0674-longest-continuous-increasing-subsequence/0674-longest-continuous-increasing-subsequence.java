@@ -10,9 +10,9 @@ class Solution {
     }
     public int helper(int i, int[] nums){
         int ans = 1;
-
-        if(i + 1 < nums.length && nums[i] < nums[i + 1]){
-            ans = Math.max(ans, 1 + helper(i + 1, nums));
+        int j = i + 1;
+        if(j < nums.length && nums[i] < nums[j]){
+            ans = Math.max(ans, 1 + helper(j, nums));
         }
         return ans;
     }
