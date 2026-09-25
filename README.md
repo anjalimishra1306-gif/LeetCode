@@ -12,6 +12,7 @@
 | [0583-delete-operation-for-two-strings](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [1092-shortest-common-supersequence](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1143-longest-common-subsequence) |
+| [1446-consecutive-characters](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1446-consecutive-characters) |
 | [3407-substring-matching-pattern](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/3407-substring-matching-pattern) |
 ## Dynamic Programming
 |  |
