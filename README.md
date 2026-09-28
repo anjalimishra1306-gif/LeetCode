@@ -13,6 +13,7 @@
 | [1092-shortest-common-supersequence](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1446-consecutive-characters](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1446-consecutive-characters) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3407-substring-matching-pattern](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/3407-substring-matching-pattern) |
 ## Dynamic Programming
 |  |
@@ -84,4 +85,12 @@
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+## Stack
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
