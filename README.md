@@ -32,6 +32,7 @@
 | [1035-uncrossed-lines](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1035-uncrossed-lines) |
 | [1092-shortest-common-supersequence](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1143-longest-common-subsequence) |
+| [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 ## Longest Common Subsequence
 |  |
 | ------- |
@@ -43,6 +44,7 @@
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0044-wildcard-matching) |
+| [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 ## Recursion
 |  |
 | ------- |
@@ -63,6 +65,7 @@
 | [0845-longest-mountain-in-array](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0845-longest-mountain-in-array) |
 | [0941-valid-mountain-array](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0941-valid-mountain-array) |
 | [1035-uncrossed-lines](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1035-uncrossed-lines) |
+| [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -86,6 +89,7 @@
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+| [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
