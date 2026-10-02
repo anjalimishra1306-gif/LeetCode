@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0097-interleaving-string) |
@@ -20,6 +21,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0097-interleaving-string) |
@@ -117,6 +119,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0022-generate-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Math
 |  |
@@ -143,4 +146,8 @@
 | ------- |
 | [1048-longest-string-chain](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1048-longest-string-chain) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
