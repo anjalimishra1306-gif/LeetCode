@@ -35,6 +35,7 @@
 | [0583-delete-operation-for-two-strings](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0646-maximum-length-of-pair-chain](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0845-longest-mountain-in-array](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0845-longest-mountain-in-array) |
+| [1027-longest-arithmetic-subsequence](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1027-longest-arithmetic-subsequence) |
 | [1035-uncrossed-lines](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1035-uncrossed-lines) |
 | [1048-longest-string-chain](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1092-shortest-common-supersequence) |
@@ -75,6 +76,7 @@
 | [0674-longest-continuous-increasing-subsequence](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0845-longest-mountain-in-array](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0845-longest-mountain-in-array) |
 | [0941-valid-mountain-array](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0941-valid-mountain-array) |
+| [1027-longest-arithmetic-subsequence](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1027-longest-arithmetic-subsequence) |
 | [1035-uncrossed-lines](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1035-uncrossed-lines) |
 | [1048-longest-string-chain](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1048-longest-string-chain) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
@@ -103,6 +105,7 @@
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0354-russian-doll-envelopes) |
+| [1027-longest-arithmetic-subsequence](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1027-longest-arithmetic-subsequence) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 ## Longest Increasing Subsequence
 |  |
@@ -144,6 +147,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [1027-longest-arithmetic-subsequence](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1027-longest-arithmetic-subsequence) |
 | [1048-longest-string-chain](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1048-longest-string-chain) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 ## Backtracking
