@@ -29,6 +29,7 @@
 | [0322-coin-change](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0322-coin-change) |
 | [0354-russian-doll-envelopes](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [0416-partition-equal-subset-sum](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0518-coin-change-ii) |
@@ -70,6 +71,7 @@
 | [0322-coin-change](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0322-coin-change) |
 | [0354-russian-doll-envelopes](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [0416-partition-equal-subset-sum](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0518-coin-change-ii](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0518-coin-change-ii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
@@ -85,11 +87,13 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0518-coin-change-ii](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0518-coin-change-ii) |
 ## 0-1 Knapsack
 |  |
 | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0474-ones-and-zeroes) |
 ## Breadth-First Search
 |  |
