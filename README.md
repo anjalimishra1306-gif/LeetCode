@@ -9,6 +9,7 @@
 | [0044-wildcard-matching](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0097-interleaving-string) |
+| [0132-palindrome-partitioning-ii](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0132-palindrome-partitioning-ii) |
 | [0474-ones-and-zeroes](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
@@ -25,6 +26,7 @@
 | [0044-wildcard-matching](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0097-interleaving-string) |
+| [0132-palindrome-partitioning-ii](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0132-palindrome-partitioning-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0322-coin-change) |
 | [0354-russian-doll-envelopes](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0354-russian-doll-envelopes) |
