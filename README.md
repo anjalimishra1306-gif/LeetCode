@@ -19,6 +19,7 @@
 | [1048-longest-string-chain](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1143-longest-common-subsequence) |
+| [1278-palindrome-partitioning-iii](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1278-palindrome-partitioning-iii) |
 | [1446-consecutive-characters](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1446-consecutive-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3407-substring-matching-pattern](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/3407-substring-matching-pattern) |
@@ -52,6 +53,7 @@
 | [1092-shortest-common-supersequence](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
+| [1278-palindrome-partitioning-iii](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1278-palindrome-partitioning-iii) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1626-best-team-with-no-conflicts](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1626-best-team-with-no-conflicts) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
