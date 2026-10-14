@@ -6,22 +6,24 @@ class Solution {
         dp = new Integer[s.length()][k+1];
       return solve(0,k);  
     }
+    
     public int palindrome(int i,int j){
         int change = 0;
         while(i < j){
             if(p.charAt(i) != p.charAt(j)){
-                change++;}
+                change++;
+              }
                 i++;
                 j--;
            }
             return change;
         }
         public int solve(int i , int k){
-            if(k == 1){
-                return palindrome(i,p.length() - 1);
-            }
+            if(k == 1) return palindrome(i,p.length() - 1);
+            
             if(dp[i][k] != null) return dp[i][k];
             int ans = Integer.MAX_VALUE;
+
             for(int j=i; j<=p.length()-k; j++){
                 int cost = palindrome(i,j) + solve(j+1,k-1);
                 ans = Math.min(cost,ans);
