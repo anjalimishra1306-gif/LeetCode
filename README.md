@@ -22,6 +22,7 @@
 | [1278-palindrome-partitioning-iii](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1278-palindrome-partitioning-iii) |
 | [1446-consecutive-characters](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1446-consecutive-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3407-substring-matching-pattern](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/3407-substring-matching-pattern) |
 ## Dynamic Programming
 |  |
@@ -106,6 +107,7 @@
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1626-best-team-with-no-conflicts](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1626-best-team-with-no-conflicts) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Knapsack Problem
 |  |
 | ------- |
