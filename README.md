@@ -86,6 +86,7 @@
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0268-missing-number](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0322-coin-change) |
 | [0354-russian-doll-envelopes](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0354-russian-doll-envelopes) |
@@ -132,6 +133,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0354-russian-doll-envelopes) |
 | [0410-split-array-largest-sum](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0410-split-array-largest-sum) |
@@ -158,12 +160,14 @@
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0415-add-strings](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0415-add-strings) |
 | [0486-predict-the-winner](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0486-predict-the-winner) |
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0268-missing-number) |
 | [0354-russian-doll-envelopes](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0646-maximum-length-of-pair-chain](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
@@ -182,6 +186,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0268-missing-number) |
 | [1027-longest-arithmetic-subsequence](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1027-longest-arithmetic-subsequence) |
 | [1048-longest-string-chain](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1048-longest-string-chain) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
@@ -209,4 +214,8 @@
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0410-split-array-largest-sum) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
