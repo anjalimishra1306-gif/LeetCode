@@ -12,6 +12,7 @@
 | [0091-decode-ways](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0097-interleaving-string) |
 | [0132-palindrome-partitioning-ii](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0132-palindrome-partitioning-ii) |
+| [0383-ransom-note](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0383-ransom-note) |
 | [0415-add-strings](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0415-add-strings) |
 | [0474-ones-and-zeroes](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
@@ -188,6 +189,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0268-missing-number) |
+| [0383-ransom-note](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0383-ransom-note) |
 | [1027-longest-arithmetic-subsequence](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1027-longest-arithmetic-subsequence) |
 | [1048-longest-string-chain](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1048-longest-string-chain) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
@@ -220,4 +222,8 @@
 | ------- |
 | [0268-missing-number](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0338-counting-bits) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
