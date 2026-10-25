@@ -166,6 +166,7 @@
 | [0368-largest-divisible-subset](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0415-add-strings](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0415-add-strings) |
 | [0486-predict-the-winner](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0486-predict-the-winner) |
+| [2652-sum-multiples](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/2652-sum-multiples) |
 ## Sorting
 |  |
 | ------- |
