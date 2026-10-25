@@ -152,6 +152,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0020-valid-parentheses) |
+| [1006-clumsy-factorial](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1006-clumsy-factorial) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
@@ -166,6 +167,7 @@
 | [0368-largest-divisible-subset](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0415-add-strings](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0415-add-strings) |
 | [0486-predict-the-winner](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0486-predict-the-winner) |
+| [1006-clumsy-factorial](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1006-clumsy-factorial) |
 | [2652-sum-multiples](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/2652-sum-multiples) |
 ## Sorting
 |  |
@@ -214,6 +216,7 @@
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0415-add-strings) |
+| [1006-clumsy-factorial](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1006-clumsy-factorial) |
 ## Prefix Sum
 |  |
 | ------- |
