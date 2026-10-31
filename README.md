@@ -113,6 +113,7 @@
 | [1626-best-team-with-no-conflicts](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1626-best-team-with-no-conflicts) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -184,6 +185,7 @@
 | [1048-longest-string-chain](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1048-longest-string-chain) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1626-best-team-with-no-conflicts](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1626-best-team-with-no-conflicts) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Two Pointers
 |  |
 | ------- |
@@ -202,6 +204,7 @@
 | [1027-longest-arithmetic-subsequence](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1027-longest-arithmetic-subsequence) |
 | [1048-longest-string-chain](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1048-longest-string-chain) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Backtracking
 |  |
 | ------- |
@@ -223,6 +226,7 @@
 | ------- |
 | [0415-add-strings](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0415-add-strings) |
 | [1006-clumsy-factorial](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1006-clumsy-factorial) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -236,6 +240,7 @@
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0383-ransom-note) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Number Theory
 |  |
 | ------- |
@@ -252,4 +257,12 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0204-count-primes) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
+## Ordered Set
+|  |
+| ------- |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 <!---LeetCode Topics End-->
