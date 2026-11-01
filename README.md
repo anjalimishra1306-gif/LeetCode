@@ -139,6 +139,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0278-first-bad-version) |
 | [0300-longest-increasing-subsequence](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0354-russian-doll-envelopes) |
 | [0410-split-array-largest-sum](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0410-split-array-largest-sum) |
@@ -265,4 +266,8 @@
 |  |
 | ------- |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
