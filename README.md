@@ -90,6 +90,7 @@
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0204-count-primes](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0204-count-primes) |
+| [0239-sliding-window-maximum](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0322-coin-change) |
@@ -261,6 +262,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Ordered Set
 |  |
@@ -270,4 +272,20 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0278-first-bad-version) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
