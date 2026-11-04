@@ -114,6 +114,7 @@
 | [1043-partition-array-for-maximum-sum](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1048-longest-string-chain) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
+| [1248-count-number-of-nice-subarrays](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1626-best-team-with-no-conflicts](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1626-best-team-with-no-conflicts) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
@@ -182,6 +183,7 @@
 | [0415-add-strings](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0415-add-strings) |
 | [0486-predict-the-winner](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0486-predict-the-winner) |
 | [1006-clumsy-factorial](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1006-clumsy-factorial) |
+| [1248-count-number-of-nice-subarrays](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [2652-sum-multiples](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/2652-sum-multiples) |
 ## Sorting
 |  |
@@ -214,6 +216,7 @@
 | [1027-longest-arithmetic-subsequence](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1027-longest-arithmetic-subsequence) |
 | [1048-longest-string-chain](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1048-longest-string-chain) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
+| [1248-count-number-of-nice-subarrays](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Backtracking
 |  |
@@ -243,6 +246,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0410-split-array-largest-sum](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+| [1248-count-number-of-nice-subarrays](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -294,6 +298,7 @@
 | [0239-sliding-window-maximum](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0713-subarray-product-less-than-k](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0904-fruit-into-baskets) |
+| [1248-count-number-of-nice-subarrays](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Monotonic Queue
 |  |
 | ------- |
