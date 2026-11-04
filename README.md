@@ -106,6 +106,7 @@
 | [0646-maximum-length-of-pair-chain](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0845-longest-mountain-in-array](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0845-longest-mountain-in-array) |
+| [0904-fruit-into-baskets](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0941-valid-mountain-array](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0941-valid-mountain-array) |
 | [1027-longest-arithmetic-subsequence](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1027-longest-arithmetic-subsequence) |
 | [1035-uncrossed-lines](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1035-uncrossed-lines) |
@@ -207,6 +208,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0268-missing-number](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0383-ransom-note) |
+| [0904-fruit-into-baskets](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1027-longest-arithmetic-subsequence](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1027-longest-arithmetic-subsequence) |
 | [1048-longest-string-chain](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1048-longest-string-chain) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
@@ -287,6 +289,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0904-fruit-into-baskets](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0904-fruit-into-baskets) |
 ## Monotonic Queue
 |  |
 | ------- |
