@@ -123,6 +123,7 @@
 | [1626-best-team-with-no-conflicts](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1626-best-team-with-no-conflicts) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Knapsack Problem
 |  |
@@ -157,6 +158,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [1027-longest-arithmetic-subsequence](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1027-longest-arithmetic-subsequence) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
@@ -254,6 +256,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -309,6 +312,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Monotonic Queue
 |  |
 | ------- |
