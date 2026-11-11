@@ -124,6 +124,7 @@
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
+| [2460-apply-operations-to-an-array](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/2460-apply-operations-to-an-array) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Knapsack Problem
 |  |
@@ -207,6 +208,7 @@
 | ------- |
 | [0845-longest-mountain-in-array](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0845-longest-mountain-in-array) |
 | [1048-longest-string-chain](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1048-longest-string-chain) |
+| [2460-apply-operations-to-an-array](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/2460-apply-operations-to-an-array) |
 ## Enumeration
 |  |
 | ------- |
@@ -247,6 +249,7 @@
 | ------- |
 | [0415-add-strings](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0415-add-strings) |
 | [1006-clumsy-factorial](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1006-clumsy-factorial) |
+| [2460-apply-operations-to-an-array](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/2460-apply-operations-to-an-array) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Prefix Sum
 |  |
