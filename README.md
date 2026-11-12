@@ -125,6 +125,7 @@
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2460-apply-operations-to-an-array](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/2460-apply-operations-to-an-array) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Knapsack Problem
 |  |
