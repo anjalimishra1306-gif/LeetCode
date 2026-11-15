@@ -105,6 +105,7 @@
 | [0474-ones-and-zeroes](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0518-coin-change-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0646-maximum-length-of-pair-chain](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0713-subarray-product-less-than-k) |
@@ -311,6 +312,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0643-maximum-average-subarray-i](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
