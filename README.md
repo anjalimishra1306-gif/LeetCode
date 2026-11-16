@@ -120,6 +120,7 @@
 | [1048-longest-string-chain](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1048-longest-string-chain) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1248-count-number-of-nice-subarrays](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1626-best-team-with-no-conflicts](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1626-best-team-with-no-conflicts) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
@@ -318,6 +319,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Monotonic Queue
 |  |
