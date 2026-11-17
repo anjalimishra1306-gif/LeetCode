@@ -92,6 +92,7 @@
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0174-dungeon-game](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0174-dungeon-game) |
 | [0204-count-primes](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0204-count-primes) |
@@ -211,6 +212,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0344-reverse-string) |
 | [0845-longest-mountain-in-array](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0845-longest-mountain-in-array) |
