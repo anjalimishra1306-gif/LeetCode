@@ -96,6 +96,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0174-dungeon-game](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0174-dungeon-game) |
 | [0204-count-primes](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
@@ -159,6 +160,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0278-first-bad-version) |
@@ -217,6 +219,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0680-valid-palindrome-ii) |
