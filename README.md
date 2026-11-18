@@ -347,4 +347,8 @@
 |  |
 | ------- |
 | [0174-dungeon-game](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0174-dungeon-game) |
+## Graph Theory
+|  |
+| ------- |
+| [1791-find-center-of-star-graph](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1791-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
