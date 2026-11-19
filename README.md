@@ -98,6 +98,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0174-dungeon-game](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0174-dungeon-game) |
+| [0200-number-of-islands](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0239-sliding-window-maximum) |
@@ -152,6 +153,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0322-coin-change) |
 | [1971-find-if-path-exists-in-graph](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Complete Knapsack
@@ -350,6 +352,7 @@
 |  |
 | ------- |
 | [0174-dungeon-game](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0174-dungeon-game) |
+| [0200-number-of-islands](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0200-number-of-islands) |
 ## Graph Theory
 |  |
 | ------- |
@@ -359,9 +362,11 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0200-number-of-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0200-number-of-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
