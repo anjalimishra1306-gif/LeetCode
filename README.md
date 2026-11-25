@@ -97,6 +97,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0130-surrounded-regions](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0130-surrounded-regions) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0174-dungeon-game](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0200-number-of-islands) |
@@ -159,6 +160,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0463-island-perimeter) |
@@ -364,6 +366,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0130-surrounded-regions) |
 | [0174-dungeon-game](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0463-island-perimeter) |
@@ -380,6 +383,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0695-max-area-of-island) |
@@ -388,6 +392,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0695-max-area-of-island) |
 | [1020-number-of-enclaves](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1020-number-of-enclaves) |
