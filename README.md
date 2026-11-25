@@ -127,6 +127,7 @@
 | [0941-valid-mountain-array](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0941-valid-mountain-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [0997-find-the-town-judge](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0997-find-the-town-judge) |
+| [1020-number-of-enclaves](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1027-longest-arithmetic-subsequence](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1027-longest-arithmetic-subsequence) |
 | [1035-uncrossed-lines](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1035-uncrossed-lines) |
 | [1043-partition-array-for-maximum-sum](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1043-partition-array-for-maximum-sum) |
@@ -163,6 +164,7 @@
 | [0463-island-perimeter](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0695-max-area-of-island) |
+| [1020-number-of-enclaves](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1971-find-if-path-exists-in-graph](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Complete Knapsack
@@ -367,6 +369,7 @@
 | [0463-island-perimeter](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0695-max-area-of-island) |
+| [1020-number-of-enclaves](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Graph Theory
 |  |
@@ -380,11 +383,13 @@
 | [0200-number-of-islands](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0695-max-area-of-island) |
+| [1020-number-of-enclaves](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1971-find-if-path-exists-in-graph](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0695-max-area-of-island) |
+| [1020-number-of-enclaves](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1971-find-if-path-exists-in-graph](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
