@@ -52,6 +52,7 @@
 | [0486-predict-the-winner](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0486-predict-the-winner) |
 | [0516-longest-palindromic-subsequence](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0646-maximum-length-of-pair-chain](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0845-longest-mountain-in-array](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0845-longest-mountain-in-array) |
@@ -114,6 +115,7 @@
 | [0474-ones-and-zeroes](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0542-01-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0646-maximum-length-of-pair-chain](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
@@ -159,6 +161,7 @@
 | [0200-number-of-islands](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0463-island-perimeter) |
+| [0542-01-matrix](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0695-max-area-of-island) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1971-find-if-path-exists-in-graph](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
@@ -362,6 +365,7 @@
 | [0174-dungeon-game](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0463-island-perimeter) |
+| [0542-01-matrix](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0695-max-area-of-island) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Graph Theory
