@@ -117,6 +117,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0646-maximum-length-of-pair-chain](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0695-max-area-of-island](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0695-max-area-of-island) |
 | [0713-subarray-product-less-than-k](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0845-longest-mountain-in-array](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0845-longest-mountain-in-array) |
 | [0904-fruit-into-baskets](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0904-fruit-into-baskets) |
@@ -157,6 +158,7 @@
 | [0200-number-of-islands](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0463-island-perimeter) |
+| [0695-max-area-of-island](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Complete Knapsack
 |  |
@@ -358,6 +360,7 @@
 | [0174-dungeon-game](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0463-island-perimeter) |
+| [0695-max-area-of-island](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0695-max-area-of-island) |
 ## Graph Theory
 |  |
 | ------- |
@@ -369,10 +372,12 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0463-island-perimeter) |
+| [0695-max-area-of-island](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
