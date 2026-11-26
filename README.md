@@ -141,6 +141,7 @@
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1626-best-team-with-no-conflicts](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1626-best-team-with-no-conflicts) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2460-apply-operations-to-an-array](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/2460-apply-operations-to-an-array) |
@@ -170,6 +171,7 @@
 | [1020-number-of-enclaves](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1254-number-of-closed-islands) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1971-find-if-path-exists-in-graph](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Complete Knapsack
 |  |
@@ -377,6 +379,7 @@
 | [1020-number-of-enclaves](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1254-number-of-closed-islands) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/anjalimishra1306-gif/LeetCode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## Graph Theory
 |  |
 | ------- |
